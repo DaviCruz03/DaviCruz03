@@ -1,6 +1,6 @@
 ❧ Olá!🎃☙
 
-👻 Meu Davi, tenho 18 e estou a procura do meu primeiro emprego..
+👻 Meu nome é Davi, tenho 18 e estou a procura do meu primeiro emprego na área de S.I ...
 
 
 
