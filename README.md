@@ -4,7 +4,7 @@
 
 📒 Estudando sobre Java e Python 
 
-📕 Atualmente estou cursando o segundo período da faculdade de Sistema de Informação.
+📕 Atualmente estou cursando o terceiro período da faculdade de Sistema de Informação.
 
 <div align="center">
   <a href="https://github.com/DaviCruz03">
